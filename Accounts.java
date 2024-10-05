@@ -54,7 +54,7 @@ public class Accounts {
 
     //get acccount number reegistered on email id
     public long get_account_number(String email){
-        String query = "SELECT account_number FROM Acounts WHERE email = ?";
+        String query = "SELECT account_number FROM Accounts WHERE email = ?";
         try {
             PreparedStatement ps = con.prepareStatement(query);
             ps.setString(1,email);
