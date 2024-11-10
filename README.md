@@ -19,4 +19,4 @@ Before you begin, ensure you have met the following requirements:
 Java Development Kit (JDK 8 or higher)
 MySQL Server
 MySQL Workbench or any other SQL client (optional for database setup)
-An IDE such as IntelliJ IDEA, Eclipse, or VS Code for Java development
+
